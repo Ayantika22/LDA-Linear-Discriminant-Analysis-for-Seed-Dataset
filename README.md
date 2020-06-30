@@ -17,7 +17,7 @@ This Program is about Linear Discriminant Analysis of Seed dataset for clusterin
 
 I have used Jupyter console.
 
-Along with Clustering Visualization Accuracy using Classifiers Such as Logistic regression, KNN, Support vector Machine, Gaussian Naive Bayes, Decision tree and Random forest Classifier is provided. To know the exactness in Accuracy Cohen Kappa is used.
+Along with Clustering Visualization, Accuracy using Classifiers Such as Logistic regression, KNN, Support vector Machine, Gaussian Naive Bayes, Decision tree and Random forest Classifier is provided. To know the exactness in Accuracy Cohen Kappa is used.
 
 # For more information, Cite this paper if referred.
 
@@ -32,4 +32,4 @@ Citing the paper(if referred) is mandatory since the paper has copyrights.
 # Enjoy Coding
 
 LDA Cluster
-![alt text]()
+![alt text](https://github.com/Ayantika22/LDA-Linear-Discriminant-Analysis-for-Seed-Dataset/blob/master/image.png)
